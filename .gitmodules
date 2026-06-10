@@ -1,0 +1,33 @@
+[submodule "peakpick-frontend"]
+	path = peakpick-frontend
+	url = https://github.com/tadyuh76/peakpick-frontend.git
+[submodule "peakpick-api-gateway"]
+	path = peakpick-api-gateway
+	url = https://github.com/tadyuh76/peakpick-api-gateway.git
+[submodule "peakpick-identity-service"]
+	path = peakpick-identity-service
+	url = https://github.com/tadyuh76/peakpick-identity-service.git
+[submodule "peakpick-catalog-service"]
+	path = peakpick-catalog-service
+	url = https://github.com/tadyuh76/peakpick-catalog-service.git
+[submodule "peakpick-order-service"]
+	path = peakpick-order-service
+	url = https://github.com/tadyuh76/peakpick-order-service.git
+[submodule "peakpick-slot-service"]
+	path = peakpick-slot-service
+	url = https://github.com/tadyuh76/peakpick-slot-service.git
+[submodule "peakpick-store-ops-service"]
+	path = peakpick-store-ops-service
+	url = https://github.com/tadyuh76/peakpick-store-ops-service.git
+[submodule "peakpick-inventory-service"]
+	path = peakpick-inventory-service
+	url = https://github.com/tadyuh76/peakpick-inventory-service.git
+[submodule "peakpick-notification-service"]
+	path = peakpick-notification-service
+	url = https://github.com/tadyuh76/peakpick-notification-service.git
+[submodule "peakpick-analytics-service"]
+	path = peakpick-analytics-service
+	url = https://github.com/tadyuh76/peakpick-analytics-service.git
+[submodule "peakpick-deployment"]
+	path = peakpick-deployment
+	url = https://github.com/tadyuh76/peakpick-deployment.git
